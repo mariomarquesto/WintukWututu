@@ -10,7 +10,7 @@ const Home = () => {
     return (
         <>
         <Hero>
-        <Banner title="WintkWatutu" subtitle="Habitaciones de lujo desde $299">
+        <Banner title="WintukWatutu" subtitle="Habitaciones de lujo desde $299">
             <Link to="/rooms" className="btn-primary">Nuestras habitaciones</Link>
         </Banner>
         </Hero>
