@@ -31,15 +31,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Experimenta la comodidad simple pero acogedora de nuestra habitación individual económica. Con un espacio diseñado para una persona, esta habitación ofrece una estancia tranquila y relajante a un precio asequible. Equipada con comodidades básicas, como una cama individual cómoda, un baño privado y acceso a internet, esta habitación es perfecta para aquellos que buscan un alojamiento sencillo pero funcional durante su viaje. Disfruta de una estancia agradable sin comprometer tu presupuesto en nuestra habitación single economy.",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
+        "Almohadas mullidas y sábanas transpirables.",
+        "Toallas de baño suaves y extragrandes.",
+        "Artículos de tocador en tamaño completo y equilibrados en pH.",
+        "Aperitivos de cortesía.",
+        "Seguridar adecuada",
         "Internet",
-        "Comfortable beds"
+        "Camas cómodas"
       ],
       images: [
         {
@@ -88,15 +88,15 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Esta habitación está diseñada con una combinación única de elementos urbanos y naturales. Con una decoración que combina arte callejero con elementos naturales como el palo santo, esta habitación te transportará a un ambiente bohemio y acogedor. Cuenta con comodidades como almohadas mullidas, toallas de baño extragrandes y artículos de tocador de tamaño completo para tu comodidad. Además, ofrecemos aperitivos de cortesía y acceso a internet para que tu estancia sea aún más placentera. Con una seguridad adecuada y camas cómodas, te garantizamos una experiencia de alojamiento satisfactoria.",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
+        "Almohadas mullidas y ropa de cama transpirable.",
+        "Toallas de baño suaves y extragrandes.",
+        "Artículos de tocador de tamaño completo y equilibrados con pH.",
+        "Refrescos de cortesía.",
+        "Seguridad adecuada.",
         "Internet",
-        "Comfortable beds"
+        "Camas cómodas."
       ],
       images: [
         {
@@ -145,15 +145,14 @@ export default [
       breakfast: false,
       featured: false,
       description:
-        "Street art edison bulb gluten-free, tofu try-hard lumbersexual brooklyn tattooed pickled chambray. Actually humblebrag next level, deep v art party wolf tofu direct trade readymade sustainable hell of banjo. Organic authentic subway tile cliche palo santo, street art XOXO dreamcatcher retro sriracha portland air plant kitsch stumptown. Austin small batch squid gastropub. Pabst pug tumblr gochujang offal retro cloud bread bushwick semiotics before they sold out sartorial literally mlkshk. Vaporware hashtag vice, sartorial before they sold out pok pok health goth trust fund cray.",
+        "Nuestra habitación single standard ofrece un espacio cómodo y acogedor para una persona. Decorada con un estilo moderno y funcional, esta habitación cuenta con todas las comodidades necesarias para una estancia agradable. Equipada con una cama individual, un baño privado y todas las amenidades esenciales, como televisión, conexión Wi-Fi y aire acondicionado. Disfruta de una estancia relajante y confortable en nuestra habitación single standard.",
       extras: [
-        "Plush pillows and breathable bed linens",
-        "Soft, oversized bath towels",
-        "Full-sized, pH-balanced toiletries",
-        "Complimentary refreshments",
-        "Adequate safety/security",
+        "Toallas suaves y extra grandes",
+        "Artículos de tocador en tamaño completo y pH balanceado",
+        "Refrescos de cortesía",
+        "Seguridad adecuada",
         "Internet",
-        "Comfortable beds"
+        "Camas cómodas",
       ],
       images: [
         {
